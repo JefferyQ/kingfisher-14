@@ -23,7 +23,7 @@
 
 <script type="text/javascript" src="http://kodekloud.s3.amazonaws.com/sites/54b83f086e6f646b45000000/360754705c291ba7cd4a4a18102adbaf/modernizr.custom.48287.js"></script>
 <!-- favicon -->
-<link rel="shortcut icon" href="http://kodekloud.s3.amazonaws.com/sites/553912c46e6f645bc2000000/d9b90a9aff278549145256be3534ff76/fav.jpg" type="image/x-icon" />
+<link rel="shortcut icon" href="http://kodekloud.s3.amazonaws.com/sites/553e90836e6f640598000000/9b450dc1eb28b591521099ad7a1f7bf4/fav.jpg" type="image/x-icon" />
 
 <!-- jQuery Version 1.11.0 -->
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
@@ -412,7 +412,7 @@
       <section class="copyright">
            <div class="container">
                 <div class="row">
-                     <div class="col-sm-6 col-md-6 footer-text"> ©2015 Alpine Centre All rights reserved. <a href="/privacy_policy">Privacy Policy</a>  </div>
+                     <div class="col-sm-6 col-md-6 footer-text"> ©2015 Kingfisher Square All rights reserved. <a href="/privacy_policy">Privacy Policy</a>  </div>
                      <div class="text-right col-sm-6 col-md-6 footer-text"> Powered by <a href="http://mallmaverick.com/" target="_blank">Mall Maverick</a> </div>
                 </div>
            </div>
