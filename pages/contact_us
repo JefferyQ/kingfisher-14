@@ -72,6 +72,11 @@
                     <p class="directory_content">{{name}}</p>
                     <p class="directory_content">{{address1}}</p>
                     <p class="directory_content">{{city}}, {{province_state}} {{postal_code}}</p>
+                     <br>
+                    <p class="directory_content"><strong>Anne Vit</strong> 
+                    <br>Property Manager
+                    <br>(905) 822-2778
+                    <br><a href="mailto:avit@bentallkennedy.com">avit@bentallkennedy.com</a></p>
                 </script>
             </div>
             
